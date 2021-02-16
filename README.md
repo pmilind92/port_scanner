@@ -1,4 +1,4 @@
-# port #scanner
+# port_scanner
 
 requirements
 python
